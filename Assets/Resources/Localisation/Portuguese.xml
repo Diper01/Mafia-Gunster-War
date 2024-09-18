@@ -1,0 +1,28 @@
+<document>
+  <string name="LOADING">CARREGANDO</string>
+  <string name="BEGIN_WAR">COMEÇAR GUERRA</string>
+  <string name="TAP_TO_PLAY">TOQUE PARA JOGAR</string>
+  <string name="DAMAGE:">DANO:</string>
+  <string name="UNLOCK_AT_LEVEL">DESBLOQUEIE NO NÍVEL</string>
+  <string name="SETTINGS">CONFIGURAÇÕES</string>
+  <string name="BACK">VOLTAR</string>
+  <string name="NEXT">PRÓXIMO</string>
+  <string name="PREVIOUS">ANTERIOR</string>
+  <string name="Health">Saúde</string>
+  <string name="Yes">Sim</string>
+  <string name="No">Não</string>
+  <string name="QUIT_THE_GAME?">Sair do jogo</string>
+  <string name="Tap_or_move_finger_to_____get_money">Toque ou mova o dedo para          ganhar dinheiro</string>
+  <string name="Touch_to_the_war_zone_on_screen_to_aim_the_target.">Toque na zona de guerra na tela para mirar no alvo.</string>
+  <string name="VICTORY">Vitória</string>
+  <string name="PAUSE">PAUSA</string>
+  <string name="PISTOL">Pistola</string>
+  <string name="DOUPLE_PISTOL">Pistola dupla</string>
+  <string name="Submachine">Submetralhadora</string>
+  <string name="Shotgun">Escopeta</string>
+  <string name="Machinegun">Metralhadora</string>
+  <string name="Strong_Wall">Parede forte</string>
+  <string name="Congratulations!You_Completed_all_levels">Parabéns! Você concluiu todos os níveis!</string>
+  <string name="Reload">Recarregar (cartuchos)</string>
+  <string name="UNLOCK_AT_LVL">DESBLOQUEIE NO NVL</string>
+</document>

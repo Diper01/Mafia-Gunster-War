@@ -1,0 +1,28 @@
+<document>
+  <string name="LOADING">جارِ التحميل</string>
+  <string name="BEGIN_WAR">ابدأ الحرب</string>
+  <string name="TAP_TO_PLAY">اضغط للعب</string>
+  <string name="DAMAGE:">تلف:</string>
+  <string name="UNLOCK_AT_LEVEL">إلغاء التأمين عند المستوى</string>
+  <string name="SETTINGS">الإعدادات</string>
+  <string name="BACK">عودة</string>
+  <string name="NEXT">التالي</string>
+  <string name="PREVIOUS">السابق</string>
+  <string name="Health">الصحة</string>
+  <string name="Yes">نعم</string>
+  <string name="No">لا</string>
+  <string name="QUIT_THE_GAME?">الخروج من اللعبة</string>
+  <string name="Tap_or_move_finger_to_____get_money">       اضغط لتحريك الإصبع إلى            للحصول على المال  </string>
+  <string name="Touch_to_the_war_zone_on_screen_to_aim_the_target.">ألمس منطقة الحرب على الشاشة للتصويب على الهدف.</string>
+  <string name="VICTORY">النصر</string>
+  <string name="PAUSE">توقف مؤقت</string>
+  <string name="PISTOL">مسدس</string>
+  <string name="DOUPLE_PISTOL">مسدس بماسورتين</string>
+  <string name="Submachine">رشاش نصف آلي</string>
+  <string name="Shotgun">بندقية قناصة</string>
+  <string name="Machinegun">رشاش آلي</string>
+  <string name="Strong_Wall">حائط قوي</string>
+  <string name="Congratulations!You_Completed_all_levels">تهانينا! لقد أكملت كل المستويات</string>
+  <string name="Reload">إعادة تحميل (خراطيش)</string>
+  <string name="UNLOCK_AT_LVL">إلغاء التأمين عند المستوى</string>
+</document>

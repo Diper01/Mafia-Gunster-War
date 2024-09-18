@@ -1,0 +1,28 @@
+<document>
+  <string name="LOADING">CHARGEMENT</string>
+  <string name="BEGIN_WAR">COMMENCE LA GUERRE</string>
+  <string name="TAP_TO_PLAY">TOUCHE POUR JOUER</string>
+  <string name="DAMAGE:">DÉGÂTS :</string>
+  <string name="UNLOCK_AT_LEVEL">DISPONIBLE AU NIVEAU</string>
+  <string name="SETTINGS">PARAMÈTRES</string>
+  <string name="BACK">RETOUR</string>
+  <string name="NEXT">SUIVANT</string>
+  <string name="PREVIOUS">PRÉCÉDENT</string>
+  <string name="Health">Vie</string>
+  <string name="Yes">Oui</string>
+  <string name="No">Non</string>
+  <string name="QUIT_THE_GAME?">QUITTER LE JEU</string>
+  <string name="Tap_or_move_finger_to_____get_money">             Touche ou déplace ton doigt           pour obtenir l'argent</string>
+  <string name="Touch_to_the_war_zone_on_screen_to_aim_the_target.">Touche la zone de guerre à l'écran pour viser la cible.</string>
+  <string name="VICTORY">Victoire</string>
+  <string name="PAUSE">PAUSE</string>
+  <string name="PISTOL">Pistolet</string>
+  <string name="DOUPLE_PISTOL">Pistolet double</string>
+  <string name="Submachine">Mitraillette</string>
+  <string name="Shotgun">Fusil</string>
+  <string name="Machinegun">Mitrailleuse</string>
+  <string name="Strong_Wall">Mur solide</string>
+  <string name="Congratulations!You_Completed_all_levels">Félicitations ! Tu as terminé tous les niveaux !</string>
+  <string name="Reload">Recharger (cartouches)</string>
+  <string name="UNLOCK_AT_LVL">DISPONIBLE AU NIV</string>
+</document>

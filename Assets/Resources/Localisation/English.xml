@@ -1,0 +1,28 @@
+<document>
+  <string name="LOADING">LOADING</string>
+  <string name="BEGIN_WAR">BEGIN WAR</string>
+  <string name="TAP_TO_PLAY">TAP TO PLAY</string>
+  <string name="DAMAGE:">DAMAGE:</string>
+  <string name="UNLOCK_AT_LEVEL">UNLOCK AT LEVEL</string>
+  <string name="SETTINGS">SETTINGS</string>
+  <string name="BACK">BACK</string>
+  <string name="NEXT">NEXT</string>
+  <string name="PREVIOUS">PREVIOUS</string>
+  <string name="Health">Health</string>
+  <string name="Yes">Yes</string>
+  <string name="No">No</string>
+  <string name="QUIT_THE_GAME?">QUIT THE GAME</string>
+  <string name="Tap_or_move_finger_to_____get_money">Tap or move finger to       get money</string>
+  <string name="Touch_to_the_war_zone_on_screen_to_aim_the_target.">Touch the war zone on screen to aim the target.</string>
+  <string name="VICTORY">VICTORY</string>
+  <string name="PAUSE">PAUSE</string>
+  <string name="PISTOL">Pistol</string>
+  <string name="DOUPLE_PISTOL">Double pistol</string>
+  <string name="Submachine">Submachine gun</string>
+  <string name="Shotgun">Shotgun</string>
+  <string name="Machinegun">Machine gun</string>
+  <string name="Strong_Wall">Strong wall</string>
+  <string name="Congratulations!You_Completed_all_levels">Congratulations! You Completed all levels</string>
+  <string name="Reload">Reload</string>
+  <string name="UNLOCK_AT_LVL">UNLOCK AT LVL</string>
+</document>

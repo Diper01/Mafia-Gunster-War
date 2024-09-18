@@ -1,0 +1,28 @@
+<document>
+  <string name="LOADING">ЗАВАНТАЖЕННЯ</string>
+  <string name="BEGIN_WAR">ПОЧАТИ ВІЙНУ</string>
+  <string name="TAP_TO_PLAY">ТОРКНІТЬСЯ, ЩОБ ГРАТИ</string>
+  <string name="DAMAGE:">ШКОДА:</string>
+  <string name="UNLOCK_AT_LEVEL">ВІДКРИТИ НА РІВНІ</string>
+  <string name="SETTINGS">НАЛАШТУВАННЯ</string>
+  <string name="BACK">НАЗАД</string>
+  <string name="NEXT">ДАЛІ</string>
+  <string name="PREVIOUS">ПОПЕРЕДНЯ</string>
+  <string name="Health">Здоров'я</string>
+  <string name="Yes">Так</string>
+  <string name="No">Ні</string>
+  <string name="QUIT_THE_GAME?">ВИЙТИ З ГРИ</string>
+  <string name="Tap_or_move_finger_to_____get_money">            Натисни або рухай пальцем,            щоб отримати гроші</string>
+  <string name="Touch_to_the_war_zone_on_screen_to_aim_the_target.">Доторкнися до бойової зони, щоб прицілитися</string>
+  <string name="VICTORY">ПЕРЕМОГА</string>
+  <string name="PAUSE">ПАУЗА</string>
+  <string name="PISTOL">Пістолет</string>
+  <string name="DOUPLE_PISTOL">Подвійні пістолети</string>
+  <string name="Submachine">Автомат</string>
+  <string name="Shotgun">Дробовик</string>
+  <string name="Machinegun">Кулемет</string>
+  <string name="Strong_Wall">Міцна стіна</string>
+  <string name="Congratulations!You_Completed_all_levels">Вітаємо! Ви пройшли всі рівні</string>
+  <string name="Reload">Перезарядка</string>
+  <string name="UNLOCK_AT_LVL">Розблокується на рівні</string>
+</document>

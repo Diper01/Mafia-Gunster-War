@@ -1,0 +1,29 @@
+<document>
+  <string name="LOADING">WIRD GELADEN</string>
+  <string name="BEGIN_WAR">BEGINNE DEN KRIEG</string>
+  <string name="TAP_TO_PLAY">BERÜHRE UM ZU SPIELEN</string>
+  <string name="DAMAGE:">SCHADEN:</string>
+  <string name="UNLOCK_AT_LEVEL">AUF LEVEL ENTSPERREN</string>
+  <string name="SETTINGS">EINSTELLUNGEN</string>
+  <string name="BACK">ZURÜCK</string>
+  <string name="NEXT">NÄCHSTE</string>
+  <string name="PREVIOUS">VORIGE</string>
+  <string name="Health">Gesundheit</string>
+  <string name="Yes">Ja</string>
+  <string name="No">Nein</string>
+  <string name="QUIT_THE_GAME?">DAS SPIEL VERLASSEN</string>
+  <string name="Tap_or_move_finger_to_____get_money">       Tippe oder bewege den Finger,            um Geld zu erhalten</string>
+  <string name="Touch_to_the_war_zone_on_screen_to_aim_the_target.">Berühre die Kriegszone auf dem Bildschirm, um das Ziel zu erreichen.</string>
+  <string name="VICTORY">SIEG</string>
+  <string name="PAUSE">PAUSE</string>
+  <string name="PISTOL">Pistole</string>
+  <string name="DOUPLE_PISTOL">Doppelpistole</string>
+  <string name="Submachine">Maschinenpistole</string>
+  <string name="Shotgun">Schrotflinte</string>
+  <string name="Machinegun">Maschinengewehr</string>
+  <string name="Strong_Wall">Starke Mauer</string>
+  <string name="Congratulations!You_Completed_all_levels">Herzlichen Glückwunsch! Du hast alle Level 
+abgeschlossen</string>
+  <string name="Reload">Nachladen</string>
+  <string name="UNLOCK_AT_LVL">AUF LVL ENTSPERREN</string>
+</document>
